@@ -20,7 +20,7 @@ Me chamo Daniel e sou programador, trabalho na [TOTVS](https://www.totvs.com/) n
 - Tento mostrar o mundo com meus olhos 📸📸
 - Poeta "de férias"
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=704391197944007577" height="550" width="450" frameborder="0" scrolling="no" ></iframe>
+![](https://i.pinimg.com/564x/02/c2/60/02c2601eb6f67243583f859fb227f438.jpg)![](https://i.pinimg.com/564x/90/0d/14/900d14af14bef2609faec515e4614dfe.jpg)
 
 #####
 ## Redes Sociais 🌐
