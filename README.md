@@ -7,7 +7,8 @@ Me chamo Daniel e sou programador, trabalho na [TOTVS](https://www.totvs.com/) n
 
 ╰(*°▽°*)╯(*/ω＼*)
 
-## Coisas legais:
+## Badges:
+![Ofido's CodeWars badge](https://www.codewars.com/users/Ofidomundo/badges/large)
 [![Ofido's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ofido&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Ofido)
 [![Ofido's GitHub langueges](https://github-readme-stats.vercel.app/api/top-langs/?username=Ofido&theme=dark&layout=compact&include_all_commits=true&count_private=true)](https://github.com/Ofido)
 
@@ -20,12 +21,9 @@ Me chamo Daniel e sou programador, trabalho na [TOTVS](https://www.totvs.com/) n
 - Tento mostrar o mundo com meus olhos 📸📸
 - Poeta "de férias"
 
-![](https://i.pinimg.com/564x/02/c2/60/02c2601eb6f67243583f859fb227f438.jpg)![](https://i.pinimg.com/564x/90/0d/14/900d14af14bef2609faec515e4614dfe.jpg)
-
 #####
 ## Redes Sociais 🌐
 
-- [![Ofido's CodeWars badge](https://www.codewars.com/users/Ofidomundo/badges/large)]
 - [LinkedIn](https://www.linkedin.com/in/danielbulhoes/)
 - [Instagram](https://www.linkedin.com/in/danielbulhoes/)
 - [BeeCrowd](https://www.instagram.com/_daniel_dsb_/)
@@ -54,3 +52,6 @@ Me chamo Daniel e sou programador, trabalho na [TOTVS](https://www.totvs.com/) n
  <p align="center">
    <img alingn="center" src="https://profile-counter.glitch.me/Ofido/count.svg" />
  </p>
+ 
+ ![](https://i.pinimg.com/564x/02/c2/60/02c2601eb6f67243583f859fb227f438.jpg)![](https://i.pinimg.com/564x/90/0d/14/900d14af14bef2609faec515e4614dfe.jpg)
+ 
