@@ -25,6 +25,7 @@ Me chamo Daniel e sou programador, trabalho na [TOTVS](https://www.totvs.com/) n
 #####
 ## Redes Sociais 🌐
 
+- [![Ofido's CodeWars badge](https://www.codewars.com/users/Ofidomundo/badges/large)]
 - [LinkedIn](https://www.linkedin.com/in/danielbulhoes/)
 - [Instagram](https://www.linkedin.com/in/danielbulhoes/)
 - [BeeCrowd](https://www.instagram.com/_daniel_dsb_/)
