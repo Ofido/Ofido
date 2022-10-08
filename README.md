@@ -9,6 +9,8 @@ Me chamo Daniel e sou programador, trabalho na [TOTVS](https://www.totvs.com/) n
 
 ## Badges:
 ![Ofido's CodeWars badge](https://www.codewars.com/users/Ofidomundo/badges/large)
+
+
 [![Ofido's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ofido&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Ofido)
 [![Ofido's GitHub langueges](https://github-readme-stats.vercel.app/api/top-langs/?username=Ofido&theme=dark&layout=compact&include_all_commits=true&count_private=true)](https://github.com/Ofido)
 
