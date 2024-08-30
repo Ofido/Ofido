@@ -34,7 +34,6 @@ Me chamo Daniel e sou programador, trabalho na [TOTVS](https://www.totvs.com/) n
 ## Ferramentas 🖥️
 
 - Java Script
-- R
 - SQL
 - Python
   - Pandas
@@ -46,14 +45,13 @@ Me chamo Daniel e sou programador, trabalho na [TOTVS](https://www.totvs.com/) n
 - AWS cloud computing
 - 🔜 GCP cloud computing
 - 🔜 AZURE cloud computing
-- React ⁉️
-- 🛑 Java 🛑 (enferrujado)
+- 🔜 Rust
+- 🔜 Go
+- 🔜 Lua
 
 
 ## :detective:
- <p align="center">
-   <img alingn="center" src="https://profile-counter.glitch.me/Ofido/count.svg" />
- </p>
+![](https://komarev.com/ghpvc/?username=Ofido&label=👁️&style=for-the-badge&color=gray)
  
- ![](https://i.pinimg.com/564x/02/c2/60/02c2601eb6f67243583f859fb227f438.jpg)![](https://i.pinimg.com/564x/90/0d/14/900d14af14bef2609faec515e4614dfe.jpg)
+![](https://i.pinimg.com/564x/02/c2/60/02c2601eb6f67243583f859fb227f438.jpg)![](https://i.pinimg.com/564x/90/0d/14/900d14af14bef2609faec515e4614dfe.jpg)
  
