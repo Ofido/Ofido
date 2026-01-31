@@ -2,7 +2,7 @@
 Me chamo Daniel e sou programador, trabalho na [TOTVS](https://www.totvs.com/) na area de segurança em cloud!
 
 - 👨‍🏫 Professor de matemática por formação, 🧑‍💻 programador no coração.
-- Analista de dados em construção pela [Usp/Esalq](https://mbauspesalq.com/)
+- Analista de dados pela [Usp/Esalq](https://mbauspesalq.com/)
 - 🚧👷🚧 FullStack: Pastéis e pizzas para todas as regiões! 🍕
 
 ╰(*°▽°*)╯(*/ω＼*)
