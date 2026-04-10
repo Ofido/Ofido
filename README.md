@@ -10,12 +10,6 @@ Me chamo Daniel e sou programador, trabalho na [TOTVS](https://www.totvs.com/) n
 ## Badges:
 ![Ofido's CodeWars badge](https://www.codewars.com/users/Ofidomundo/badges/large)
 
-
-[![Ofido's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ofido&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Ofido)
-[![Ofido's GitHub langueges](https://github-readme-stats.vercel.app/api/top-langs/?username=Ofido&theme=dark&layout=compact&include_all_commits=true&count_private=true)](https://github.com/Ofido)
-
-[(∩｀-´)⊃━☆ﾟ.*･｡ﾟ⬆️](https://github.com/anuraghazra/github-readme-stats)
-
 ## Sobre mim 🕹️
 - Gosto de Animes e mangas
 - Gatos 🐈🐈‍⬛
@@ -27,8 +21,11 @@ Me chamo Daniel e sou programador, trabalho na [TOTVS](https://www.totvs.com/) n
 ## Redes Sociais 🌐
 
 - [LinkedIn](https://www.linkedin.com/in/danielbulhoes/)
-- [Instagram](https://www.linkedin.com/in/danielbulhoes/)
-- [BeeCrowd](https://www.instagram.com/_daniel_dsb_/)
+- [BeeCrowd](https://judge.beecrowd.com/pt/profile/614257)
+- [HackerRank](https://www.hackerrank.com/profile/ofidomundo)
+- [CodeWars](https://www.codewars.com/users/Ofidomundo)
+- [CodingGame](https://www.codingame.com/profile/1be0701c555f98c1a82588fee8173a727619883)
+- [LeetCode](https://leetcode.com/u/Ofido/)
 - [📩](danieldsb98+github@gmail.com)
 
 ## Ferramentas 🖥️
